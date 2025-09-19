@@ -1,0 +1,8 @@
+pytest~=8.4.0
+playwright~=1.55.0
+allure-pytest
+lxml~=6.0.1
+attrs~=25.3.0
+allure-python-commons~=2.15.0
+pillow
+pytest-playwright
